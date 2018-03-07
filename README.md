@@ -1,0 +1,1 @@
+Welcome to my repository for the Python for Everybody Capstone coursera course by University of Michigan. Here is the github repository showcasing the retrieval, processing, and visualizing of data in Python. 
